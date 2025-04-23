@@ -13,9 +13,3 @@ A simple command-line Python app that lets you track your daily expenses, view t
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/expense-tracker-python.git
-cd expense-tracker-python
